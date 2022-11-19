@@ -139,5 +139,3 @@
     ![hasil praktium5](img/praktikum5.png)
 
     `Selesai terima kasih`
-
-    [saweria](https://saweria.co/adamwebdev)
